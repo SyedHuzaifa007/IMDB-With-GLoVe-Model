@@ -3,4 +3,4 @@ This repository contains all the code and notebooks for IMDB with GLoVe Deep Lea
 - This model is the next version of IMDB reviews classification model.
 - This model uses pre-trained word embeddings.
 - This model is an example of text processing problem.
-- This model
+- This model is
